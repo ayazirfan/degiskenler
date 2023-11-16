@@ -1,0 +1,14 @@
+C:\Users\HP\Desktop\VScode\degisken\obj\Debug\net8.0\degisken.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\HP\Desktop\VScode\degisken\obj\Debug\net8.0\degisken.AssemblyInfoInputs.cache
+C:\Users\HP\Desktop\VScode\degisken\obj\Debug\net8.0\degisken.AssemblyInfo.cs
+C:\Users\HP\Desktop\VScode\degisken\obj\Debug\net8.0\degisken.csproj.CoreCompileInputs.cache
+c:\Users\HP\Desktop\VScode\degisken\bin\Debug\net8.0\degisken.exe
+c:\Users\HP\Desktop\VScode\degisken\bin\Debug\net8.0\degisken.deps.json
+c:\Users\HP\Desktop\VScode\degisken\bin\Debug\net8.0\degisken.runtimeconfig.json
+c:\Users\HP\Desktop\VScode\degisken\bin\Debug\net8.0\degisken.dll
+c:\Users\HP\Desktop\VScode\degisken\bin\Debug\net8.0\degisken.pdb
+c:\Users\HP\Desktop\VScode\degisken\obj\Debug\net8.0\degisken.dll
+c:\Users\HP\Desktop\VScode\degisken\obj\Debug\net8.0\refint\degisken.dll
+c:\Users\HP\Desktop\VScode\degisken\obj\Debug\net8.0\degisken.pdb
+c:\Users\HP\Desktop\VScode\degisken\obj\Debug\net8.0\degisken.genruntimeconfig.cache
+c:\Users\HP\Desktop\VScode\degisken\obj\Debug\net8.0\ref\degisken.dll
